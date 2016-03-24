@@ -1,0 +1,100 @@
+_:E82_Actor_Appellation1_09c54e47273e5039a369b4e1e3811c3698cfa227_N15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<http://dig.isi.edu/AutryMakers/object/2008.34.2/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+_:E33_Linguistic_Object1_668aa8f543b0f876908a18f790d7c9ea075ec12e_N14 <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "born 1965" .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE26890;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+_:E33_Linguistic_Object1_668aa8f543b0f876908a18f790d7c9ea075ec12e_N14 <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE26890;type=701> .
+<http://dig.isi.edu/AutryMakers/object/2008.34.2/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE26890;type=701> .
+_:E42_Identifier1_4bfe8b52434dd8ba2ce0734cb363502be60fa31c_N11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://dig.isi.edu/AutryMakers/object/2008.34.2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE26890;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_09c54e47273e5039a369b4e1e3811c3698cfa227_N15 .
+_:E82_Actor_Appellation1_09c54e47273e5039a369b4e1e3811c3698cfa227_N15 <http://www.w3.org/2000/01/rdf-schema#label> "Abeyta, Tony" .
+_:E33_Linguistic_Object1_668aa8f543b0f876908a18f790d7c9ea075ec12e_N14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE26890;type=701> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:E42_Identifier1_4bfe8b52434dd8ba2ce0734cb363502be60fa31c_N11 .
+_:E42_Identifier1_4bfe8b52434dd8ba2ce0734cb363502be60fa31c_N11 <http://www.w3.org/2000/01/rdf-schema#label> "500126291.0" .
+<http://dig.isi.edu/AutryMakers/object/2008.34.2> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/2008.34.2/production> .
+_:E33_Linguistic_Object1_b36fc79afe7391222fb7c329e356c5341fb11c60_N21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220455;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+<http://dig.isi.edu/AutryMakers/object/2013.27.1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220455;type=701> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220455;type=701> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:E42_Identifier1_8c66dee8f2f526704fef540d0506980c2c72c550_N18 .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/Chumash> <http://www.w3.org/2000/01/rdf-schema#label> "Chumash" .
+_:E42_Identifier1_8c66dee8f2f526704fef540d0506980c2c72c550_N18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220455;type=701> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <http://dig.isi.edu/AutryMakers/thesauri/nationality/Chumash> .
+_:E33_Linguistic_Object1_b36fc79afe7391222fb7c329e356c5341fb11c60_N21 <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "born 1946" .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220455;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_c2351d051193c7441b0bfc46d19980f6b2e8f523_N22 .
+<http://dig.isi.edu/AutryMakers/object/2013.27.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:E42_Identifier1_8c66dee8f2f526704fef540d0506980c2c72c550_N18 <http://www.w3.org/2000/01/rdf-schema#label> "500336550.0" .
+_:E82_Actor_Appellation1_c2351d051193c7441b0bfc46d19980f6b2e8f523_N22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<http://dig.isi.edu/AutryMakers/object/2013.27.1> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/2013.27.1/production> .
+_:E33_Linguistic_Object1_b36fc79afe7391222fb7c329e356c5341fb11c60_N21 <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220455;type=701> .
+<http://dig.isi.edu/AutryMakers/object/2013.27.1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/Chumash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+_:E82_Actor_Appellation1_c2351d051193c7441b0bfc46d19980f6b2e8f523_N22 <http://www.w3.org/2000/01/rdf-schema#label> "Aguilar, Linda" .
+_:E42_Identifier1_4769bf56bc63bcf9ad1824111fda6084974b69c1_N25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/Choctaw> <http://www.w3.org/2000/01/rdf-schema#label> "Choctaw" .
+<http://dig.isi.edu/AutryMakers/object/2015.21.1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE219666;type=701> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE219666;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_2ffdd97d5e81b9858267c18c2bac8ca1cf635521_N29 .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE219666;type=701> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> _:E42_Identifier1_4769bf56bc63bcf9ad1824111fda6084974b69c1_N25 .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE219666;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+<http://dig.isi.edu/AutryMakers/object/2015.21.1> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/2015.21.1/production> .
+_:E42_Identifier1_4769bf56bc63bcf9ad1824111fda6084974b69c1_N25 <http://www.w3.org/2000/01/rdf-schema#label> "500126317.0" .
+_:E82_Actor_Appellation1_2ffdd97d5e81b9858267c18c2bac8ca1cf635521_N29 <http://www.w3.org/2000/01/rdf-schema#label> "Amerman, Marcus" .
+_:E33_Linguistic_Object1_991afc86446bc73b78edad7d82f774d33cf4b444_N28 <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "born 1959" .
+<http://dig.isi.edu/AutryMakers/object/2015.21.1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+_:E33_Linguistic_Object1_991afc86446bc73b78edad7d82f774d33cf4b444_N28 <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE219666;type=701> .
+_:E33_Linguistic_Object1_991afc86446bc73b78edad7d82f774d33cf4b444_N28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/Choctaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<http://dig.isi.edu/AutryMakers/object/2015.21.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:E82_Actor_Appellation1_2ffdd97d5e81b9858267c18c2bac8ca1cf635521_N29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE219666;type=701> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <http://dig.isi.edu/AutryMakers/thesauri/nationality/Choctaw> .
+<http://dig.isi.edu/AutryMakers/object/2012.37.22/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://dig.isi.edu/AutryMakers/object/2012.37.22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:E82_Actor_Appellation1_45220aa980c57f486f545ac38712dee719df9ce4_N36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220388;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_45220aa980c57f486f545ac38712dee719df9ce4_N36 .
+<http://dig.isi.edu/AutryMakers/object/2012.37.22> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/2012.37.22/production> .
+_:E82_Actor_Appellation1_45220aa980c57f486f545ac38712dee719df9ce4_N36 <http://www.w3.org/2000/01/rdf-schema#label> "Andersen, Roy" .
+<http://dig.isi.edu/AutryMakers/object/2012.37.22/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220388;type=701> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220388;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+<http://dig.isi.edu/AutryMakers/object/2012.5.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220132;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_d84e0eda51c4f22ef13cda692619e39eb64b13e8_N43 .
+<http://dig.isi.edu/AutryMakers/object/2012.5.1> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/2012.5.1/production> .
+_:E33_Linguistic_Object1_a71f9b7e411204291de07a07d7c96c7c21dbd785_N42 <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "born 1957" .
+_:E82_Actor_Appellation1_d84e0eda51c4f22ef13cda692619e39eb64b13e8_N43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<http://dig.isi.edu/AutryMakers/object/2012.5.1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220132;type=701> .
+_:E82_Actor_Appellation1_d84e0eda51c4f22ef13cda692619e39eb64b13e8_N43 <http://www.w3.org/2000/01/rdf-schema#label> "Anton, Bill" .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220132;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+<http://dig.isi.edu/AutryMakers/object/2012.5.1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220132;type=701> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <http://dig.isi.edu/AutryMakers/thesauri/nationality/American> .
+_:E33_Linguistic_Object1_a71f9b7e411204291de07a07d7c96c7c21dbd785_N42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+_:E33_Linguistic_Object1_a71f9b7e411204291de07a07d7c96c7c21dbd785_N42 <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220132;type=701> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/Hispanic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE212737;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+_:E82_Actor_Appellation1_4651cb107dbe830b6b0e064b806fbb3e6e95ca79_N50 <http://www.w3.org/2000/01/rdf-schema#label> "Arroyo Hondo Carver" .
+<http://dig.isi.edu/AutryMakers/object/90.209.1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/Hispanic> <http://www.w3.org/2000/01/rdf-schema#label> "Hispanic" .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE212737;type=701> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <http://dig.isi.edu/AutryMakers/thesauri/nationality/Hispanic> .
+_:E33_Linguistic_Object1_d26b37bc9074c6e7be284f055c41b24716766ad7_N49 <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE212737;type=701> .
+_:E33_Linguistic_Object1_d26b37bc9074c6e7be284f055c41b24716766ad7_N49 <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "active 1825-1850" .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE212737;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_4651cb107dbe830b6b0e064b806fbb3e6e95ca79_N50 .
+<http://dig.isi.edu/AutryMakers/object/90.209.1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://dig.isi.edu/AutryMakers/object/90.209.1> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/90.209.1/production> .
+<http://dig.isi.edu/AutryMakers/object/90.209.1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE212737;type=701> .
+_:E82_Actor_Appellation1_4651cb107dbe830b6b0e064b806fbb3e6e95ca79_N50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+_:E33_Linguistic_Object1_d26b37bc9074c6e7be284f055c41b24716766ad7_N49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://dig.isi.edu/AutryMakers/object/92.217.5/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+_:E33_Linguistic_Object1_85fe372bfccdfe59cadbacaad5bee09a065783ee_N56 <http://www.cidoc-crm.org/cidoc-crm/P3_has_note> "1827-1906" .
+_:E33_Linguistic_Object1_85fe372bfccdfe59cadbacaad5bee09a065783ee_N56 <http://www.cidoc-crm.org/cidoc-crm/P129_is_about> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE206414;type=701> .
+<http://dig.isi.edu/AutryMakers/object/92.217.5> <http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by> <http://dig.isi.edu/AutryMakers/object/92.217.5/production> .
+_:E82_Actor_Appellation1_b3e5ea4689fcc3f01ee7d9b6b9ba98773b326e09_N57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE206414;type=701> <http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of> <http://dig.isi.edu/AutryMakers/thesauri/nationality/American> .
+<http://dig.isi.edu/AutryMakers/object/92.217.5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE206414;type=701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E39_Actor> .
+_:E82_Actor_Appellation1_b3e5ea4689fcc3f01ee7d9b6b9ba98773b326e09_N57 <http://www.w3.org/2000/01/rdf-schema#label> "Baker, George H." .
+<http://dig.isi.edu/AutryMakers/object/92.217.5/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE206414;type=701> .
+<http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE206414;type=701> <http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by> _:E82_Actor_Appellation1_b3e5ea4689fcc3f01ee7d9b6b9ba98773b326e09_N57 .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/American> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> .
+<http://dig.isi.edu/AutryMakers/thesauri/nationality/American> <http://www.w3.org/2000/01/rdf-schema#label> "American" .
+_:E33_Linguistic_Object1_85fe372bfccdfe59cadbacaad5bee09a065783ee_N56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
+<http://dig.isi.edu/AutryMakers/object/2015.12.1/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E12_Production> .
+<http://dig.isi.edu/AutryMakers/object/2015.12.1/production> <http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by> <http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=PE220760;type=701> .
